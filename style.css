@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div{
+    width: 70%;
+    margin: auto;
+    background-color: #667E91;
+    border-radius: 20px;
+    padding: 30px;
+    border: solid 1px;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+p{
+    line-height: 30px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
